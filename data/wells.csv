@@ -1,0 +1,21 @@
+Well,Field,Reservoir,Well_Type,Start_Date
+A-01,Field1,ResA,Normal Producer,2018-04-01
+A-02,Field1,ResB,Water Breakthrough,2018-04-01
+A-03,Field2,ResC,Water Breakthrough,2018-01-01
+A-04,Field3,ResB,Strong Producer,2018-10-28
+A-05,Field1,ResA,Water Coning,2018-09-28
+A-06,Field3,ResC,Water Coning,2018-05-01
+A-07,Field2,ResA,Normal Producer,2018-03-02
+A-08,Field1,ResA,Normal Producer,2018-11-27
+A-09,Field3,ResA,Strong Producer,2018-05-01
+A-10,Field1,ResA,Water Coning,2018-05-01
+A-11,Field2,ResC,Water Breakthrough,2018-10-28
+A-12,Field2,ResC,Water Breakthrough,2018-07-30
+A-13,Field1,ResC,Water Breakthrough,2018-06-30
+A-14,Field1,ResA,Water Breakthrough,2018-10-28
+A-15,Field1,ResB,Normal Producer,2018-04-01
+A-16,Field3,ResB,Normal Producer,2018-05-31
+A-17,Field1,ResC,Normal Producer,2018-01-31
+A-18,Field3,ResB,Water Breakthrough,2018-03-02
+A-19,Field1,ResC,Strong Producer,2018-11-27
+A-20,Field2,ResB,Water Coning,2018-06-30
