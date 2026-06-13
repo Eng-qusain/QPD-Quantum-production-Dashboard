@@ -2,9 +2,19 @@
 
 ## My Humble Beginning (2022)
 
-**QPD – Quantum Production Dashboard** was one of my earliest software projects, developed in **2022 during my Petroleum Engineering studies**. While the name may sound ambitious today, the project represented my first serious attempt to combine engineering thinking, data analysis, and software development into a practical dashboard application.
+QPD – Quantum Production Dashboard was one of the first software projects I built in 2022 while I was still a Petroleum Engineering student.
 
-Looking back, QPD reflects the curiosity and enthusiasm of a student exploring how operational and production data could be transformed into actionable insights through visualization and analytics. Although simple compared to my current engineering and AI projects, it laid the foundation for my later work in data engineering, machine learning, petroleum analytics, and scientific software development.
+The original idea was actually pretty simple: I wanted to show my classmates how the production engineering calculations we were constantly being tested on could be visualized and understood through an interactive application instead of just solving them on paper or in spreadsheets.
+
+At the time, I was completely new to Python. I had heard good things about Streamlit and decided to give it a try. Most people would probably have used Excel or Power BI for a student project—and honestly, they were probably right—but I wanted to build something different and use it as an excuse to learn programming.
+
+Looking back, the code definitely shows that I was learning as I went. For a long time, I was almost embarrassed to share it. But after working on larger engineering, data, and AI projects, I've come to appreciate it for what it is: the project that started everything.
+
+What makes it even more special to me is that it was built before AI coding assistants became part of everyday development. Every feature, bug fix, and late-night debugging session came from documentation, experimentation, and persistence.
+
+Today I'm actually proud of QPD. It may not be the most sophisticated project in my portfolio anymore, but it represents the moment I stopped being just a user of software and started becoming a builder.
+
+And who knows—maybe one day I'll come back and build a **QPD 2.0**.
 
 ---
 
