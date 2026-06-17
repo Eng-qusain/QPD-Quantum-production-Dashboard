@@ -18,12 +18,6 @@ And who knows—maybe one day I'll come back and build a **QPD 2.0**.
 
 ---
 
-# One-Line Headline
-
-**A student-built production monitoring dashboard demonstrating early skills in data visualization, analytics, and engineering software development.**
-
----
-
 # Project Overview
 
 QPD (Quantum Production Dashboard) is a lightweight analytics platform designed to monitor, analyze, and visualize production-related metrics through an interactive dashboard interface.
